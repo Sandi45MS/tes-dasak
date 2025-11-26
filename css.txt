@@ -1,0 +1,10 @@
+/* Memperbesar judul */
+h1 {
+    color: #0059ff;
+    text-align: center;
+}
+
+/* Card style */
+.stApp {
+    background-color: #f4f8ff;
+}
